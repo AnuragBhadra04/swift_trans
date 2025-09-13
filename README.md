@@ -40,7 +40,11 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 ## 📱 Screenshots
-(Add screenshots or GIFs of your app here)
+![photo_2025-09-13_20-57-19](https://github.com/user-attachments/assets/63aeeadd-b965-4c06-9acd-a85e27a6e076)
+![photo_2025-09-13_20-57-17](https://github.com/user-attachments/assets/2b0919a5-800f-45eb-b9bc-ba9c0c7e3c85)
+![photo_2025-09-13_20-57-16](https://github.com/user-attachments/assets/dab13b2b-20f2-4520-8b34-22ecf4192000)
+
+
 
 ---
 👨‍💻 Author
