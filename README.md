@@ -1,16 +1,56 @@
-# swift_trans
+# 🌐 Swift_Trans
 
-A new Flutter project.
+Swift_Trans is a **language translator application** built with Flutter that supports **27 different languages**.  
+It integrates **Google Translate API** for accurate translations and includes **voice-to-speech** features for accessibility.  
+The app also provides a **review system** so users can share feedback on their translation experience.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ✅ Translate text into **27 languages**  
+- ✅ **Voice-to-Speech** support (speak and hear translations)  
+- ✅ **Google Translate API integration**  
+- ✅ User-friendly **review system**  
+- ✅ Cross-platform (Android, iOS, Web, Desktop)  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Framework**: [Flutter](https://flutter.dev/)  
+- **Language**: Dart  
+- **API**: Google Translate API  
+- **Voice Input/Output**: Speech-to-Text & Text-to-Speech plugins  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+📌 Roadmap
+
+ Add support for offline translations
+
+ Expand language support
+
+ Improve UI/UX with animations
+
+ Cloud-based review storage
+
+🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+## 📱 Screenshots
+(Add screenshots or GIFs of your app here)
+
+---
+👨‍💻 Author
+
+Anurag Bhadra
+
+## 📦 Installation
+
+### Clone the repository
+```bash
+
+git clone https://github.com/AnuragBhadra04/swift_trans.git
+cd swift_trans
